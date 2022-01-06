@@ -1,0 +1,5 @@
+wx.openCustomerServiceChat({
+  extInfo: {url: ''},
+  corpId: '',
+  success(res) {}
+})
